@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/build/intermediates/incremental/mergeArDebugResources/merged.dir/values-ta/values-ta.xml",
+            "map": [
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/res/values-ta/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,289,392,495",
+                        "endColumns": "49,48,102,102,64",
+                        "endOffsets": "239,288,391,494,559"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,159,212,319,426",
+                        "endColumns": "53,52,106,106,68",
+                        "endOffsets": "154,207,314,421,490"
+                    }
+                },
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1b23d72f7069371acd033ddca8443caf/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,317,432,521,628,754,832,909,1009,1114,1210,1305,1412,1514,1618,1713,1815,1913,1995,2097,2201,2298,2408,2510,2617,2774,2874",
+                        "endColumns": "113,97,114,88,106,125,77,76,99,104,95,94,106,101,103,94,101,97,81,101,103,96,109,101,106,156,99,79",
+                        "endOffsets": "214,312,427,516,623,749,827,904,1004,1109,1205,1300,1407,1509,1613,1708,1810,1908,1990,2092,2196,2293,2403,2505,2612,2769,2869,2949"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "495,609,707,822,911,1018,1144,1222,1299,1399,1504,1600,1695,1802,1904,2008,2103,2205,2303,2385,2487,2591,2688,2798,2900,3007,3164,3264",
+                        "endColumns": "113,97,114,88,106,125,77,76,99,104,95,94,106,101,103,94,101,97,81,101,103,96,109,101,106,156,99,79",
+                        "endOffsets": "604,702,817,906,1013,1139,1217,1294,1394,1499,1595,1690,1797,1899,2003,2098,2200,2298,2380,2482,2586,2683,2793,2895,3002,3159,3259,3339"
+                    }
+                },
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3344",
+                        "endColumns": "100",
+                        "endOffsets": "3440"
+                    }
+                }
+            ]
+        }
+    ]
+}

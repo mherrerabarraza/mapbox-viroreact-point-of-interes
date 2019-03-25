@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/build/intermediates/incremental/mergeArDebugResources/merged.dir/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3320",
+                        "endColumns": "100",
+                        "endOffsets": "3416"
+                    }
+                },
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/res/values-uz/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,243,297,412,535",
+                        "endColumns": "52,53,114,122,65",
+                        "endOffsets": "242,296,411,534,600"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,162,220,339,466",
+                        "endColumns": "56,57,118,126,69",
+                        "endOffsets": "157,215,334,461,531"
+                    }
+                },
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1b23d72f7069371acd033ddca8443caf/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,314,428,514,614,730,810,889,980,1073,1169,1263,1358,1451,1546,1641,1732,1824,1908,2017,2124,2225,2333,2438,2545,2706,2805",
+                        "endColumns": "104,103,113,85,99,115,79,78,90,92,95,93,94,92,94,94,90,91,83,108,106,100,107,104,106,160,98,83",
+                        "endOffsets": "205,309,423,509,609,725,805,884,975,1068,1164,1258,1353,1446,1541,1636,1727,1819,1903,2012,2119,2220,2328,2433,2540,2701,2800,2884"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "536,641,745,859,945,1045,1161,1241,1320,1411,1504,1600,1694,1789,1882,1977,2072,2163,2255,2339,2448,2555,2656,2764,2869,2976,3137,3236",
+                        "endColumns": "104,103,113,85,99,115,79,78,90,92,95,93,94,92,94,94,90,91,83,108,106,100,107,104,106,160,98,83",
+                        "endOffsets": "636,740,854,940,1040,1156,1236,1315,1406,1499,1595,1689,1784,1877,1972,2067,2158,2250,2334,2443,2550,2651,2759,2864,2971,3132,3231,3315"
+                    }
+                }
+            ]
+        }
+    ]
+}

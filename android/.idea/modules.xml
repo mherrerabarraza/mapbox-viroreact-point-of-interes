@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViroSample.iml" filepath="$PROJECT_DIR$/ViroSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-viro/android/arcore_client/arcore_client.iml" filepath="$PROJECT_DIR$/../node_modules/react-viro/android/arcore_client/arcore_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-viro/android/gvr_common/gvr_common.iml" filepath="$PROJECT_DIR$/../node_modules/react-viro/android/gvr_common/gvr_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/mapbox-react-native-mapbox-gl.iml" filepath="$PROJECT_DIR$/../node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/mapbox-react-native-mapbox-gl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-viro/android/react_viro/react_viro.iml" filepath="$PROJECT_DIR$/../node_modules/react-viro/android/react_viro/react_viro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-viro/android/viro_renderer/viro_renderer.iml" filepath="$PROJECT_DIR$/../node_modules/react-viro/android/viro_renderer/viro_renderer.iml" />
+    </modules>
+  </component>
+</project>

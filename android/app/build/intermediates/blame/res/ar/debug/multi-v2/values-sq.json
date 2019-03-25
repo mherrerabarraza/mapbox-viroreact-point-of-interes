@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/build/intermediates/incremental/mergeArDebugResources/merged.dir/values-sq/values-sq.xml",
+            "map": [
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/res/values-sq/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,285,385,487",
+                        "endColumns": "45,48,99,101,65",
+                        "endOffsets": "235,284,384,486,552"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,155,208,312,418",
+                        "endColumns": "49,52,103,105,69",
+                        "endOffsets": "150,203,307,413,483"
+                    }
+                },
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1b23d72f7069371acd033ddca8443caf/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,319,431,518,628,751,832,911,1002,1095,1191,1285,1387,1480,1575,1672,1763,1856,1939,2045,2150,2248,2354,2457,2573,2727,2826",
+                        "endColumns": "113,99,111,86,109,122,80,78,90,92,95,93,101,92,94,96,90,92,82,105,104,97,105,102,115,153,98,80",
+                        "endOffsets": "214,314,426,513,623,746,827,906,997,1090,1186,1280,1382,1475,1570,1667,1758,1851,1934,2040,2145,2243,2349,2452,2568,2722,2821,2902"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "488,602,702,814,901,1011,1134,1215,1294,1385,1478,1574,1668,1770,1863,1958,2055,2146,2239,2322,2428,2533,2631,2737,2840,2956,3110,3209",
+                        "endColumns": "113,99,111,86,109,122,80,78,90,92,95,93,101,92,94,96,90,92,82,105,104,97,105,102,115,153,98,80",
+                        "endOffsets": "597,697,809,896,1006,1129,1210,1289,1380,1473,1569,1663,1765,1858,1953,2050,2141,2234,2317,2423,2528,2626,2732,2835,2951,3105,3204,3285"
+                    }
+                },
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3290",
+                        "endColumns": "100",
+                        "endOffsets": "3386"
+                    }
+                }
+            ]
+        }
+    ]
+}

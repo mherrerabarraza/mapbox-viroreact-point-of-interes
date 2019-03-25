@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/build/intermediates/incremental/mergeArDebugResources/merged.dir/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/res/values-id/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,288,379,471",
+                        "endColumns": "45,51,90,91,62",
+                        "endOffsets": "235,287,378,470,533"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,256,352",
+                        "endColumns": "49,55,94,95,66",
+                        "endOffsets": "100,156,251,347,414"
+                    }
+                },
+                {
+                    "source": "/Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/sdk-common-1.180.0.aar/9350014088617cbbe8d522b7763b4dd8/res/values-id/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "174,238,282,330,404,575,694,746,826,904,978,1034,1237,1425,1488,1560,1642,1742,1841,1909,1956,2009",
+                        "endColumns": "63,43,47,73,170,118,51,79,77,73,55,202,187,62,71,81,99,98,67,46,52,65",
+                        "endOffsets": "237,281,329,403,574,693,745,825,903,977,1033,1236,1424,1487,1559,1641,1741,1840,1908,1955,2008,2074"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "419,487,535,587,665,840,963,1019,1103,1185,1263,1323,1530,1722,1789,1865,1951,2055,2158,2230,2281,2338",
+                        "endColumns": "67,47,51,77,174,122,55,83,81,77,59,206,191,66,75,85,103,102,71,50,56,69",
+                        "endOffsets": "482,530,582,660,835,958,1014,1098,1180,1258,1318,1525,1717,1784,1860,1946,2050,2153,2225,2276,2333,2403"
+                    }
+                }
+            ]
+        }
+    ]
+}

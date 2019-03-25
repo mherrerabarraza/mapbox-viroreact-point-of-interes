@@ -1,0 +1,444 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-gesture-handler] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/f76280efbccf763cef756cb03aebf775/AndroidManifest.xml:2:1-15:12
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/85142f02b7cd4d8c2b111b36696a8e23/AndroidManifest.xml:2:1-14:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization:0.1.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-plugin-localization-0.1.0.aar/5f851e1f595a7c23c5efd97fc0c01fa1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.3.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-plugin-locationlayer-0.3.0.aar/35598179fdf031e96f3720d971fa5e3c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:2:1-31:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-telemetry-2.2.9.aar/50f2ce7f5203f5228edb42b1e9c7d8cb/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1b23d72f7069371acd033ddca8443caf/AndroidManifest.xml:17:1-22:12
+MERGED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:17:1-46:12
+MERGED from [:gvr_common] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/sdk-common-1.180.0.aar/9350014088617cbbe8d522b7763b4dd8/AndroidManifest.xml:2:1-9:12
+MERGED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:2:1-44:12
+MERGED from [:react_viro] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/ea785dfb0ba22e8a3e6e8724b3ca9d05/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-2.7.1.aar/4681ce4e6b71587119ecf5ae7b683c5f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ad743a9cf18108be0de6dbddacb12743/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.1.aar/3bda062f4a2f17079a9a1c3bfb311b67/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.7.1.aar/ed89598c3dda81bf8bef41f2593feee9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.7.1.aar/580c66e2834d12d672d5fd55416aa1ac/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.1.aar/a2062a864acd7687118960948a9b9f63/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.1.aar/2f77de4b4927f4bfdfa77b8db196a394/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b059eca33767d8fe3cc33af3bdd628a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f6e24905a42bee4e1df400a9384010fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/adad92ebed5c936e99b06f1978961665/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/208220c7d81ae1b20013889860fb4d0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d172cb9f0a238ca84240a704ea3b14f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3679f77efb80a59280491183141b5aca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/82934e4beb62d8c105354e3479e3a80f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4fd06b1d4afeb47d01853c144d191668/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1044d7bbeffd009ac198f4304d0e9b4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b3f08200a76ec8468a9524f712b1945f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/10274d55c88721bae68277d2435741bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/129f6b984ea6197090095d137e0af6c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01279f6525cfa2d3b904f91cebe327a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c4fbd20c064ae47304c1d5bbb75e524/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ac9aa700b02127fa3de5832160003a8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e754e72e5714a4052ed39a9eaf0a7ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b638cb6b71f70bfb42fe1226789b7925/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ef368693e02074d80dc157d94dd2b59d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff6773264f1dd2089610c3246468adda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c4ddb20318097ae284cf50d0d4eb8b2e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb4bc919eaef8001fc6188850bb218b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cec284898e57c180d4940b5c335020c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2f68d57407ddd38f632a68d059eda5f1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21fdb349c86083aec66683a2ada06412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5fff1da678d53c25d986797982b5c391/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c6c68948ea66b813005f03ed51f24f8e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe5aaa652db7550830e9796c4bd4fc1e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4eb88d0514e828b37e89897b668568ab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/98f83a71fe1d79f76f78333102d81a95/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/226d91f26025af2eaab2dc77fdef5e93/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/67ba26790d0134e92bf643c5ed6ea8a2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/0bce381bc6810ab7411e22f149b0e71a/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/85142f02b7cd4d8c2b111b36696a8e23/AndroidManifest.xml:12:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/85142f02b7cd4d8c2b111b36696a8e23/AndroidManifest.xml:12:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:21:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:21:5-67
+MERGED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:25:5-67
+MERGED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/f76280efbccf763cef756cb03aebf775/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/f76280efbccf763cef756cb03aebf775/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-79
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/85142f02b7cd4d8c2b111b36696a8e23/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/85142f02b7cd4d8c2b111b36696a8e23/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:7:5-64
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-65
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:7:22-62
+application
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:9:5-29:19
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/f76280efbccf763cef756cb03aebf775/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/f76280efbccf763cef756cb03aebf775/AndroidManifest.xml:13:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:25:5-29:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:25:5-29:19
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:21:5-32:19
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:21:5-32:19
+MERGED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:30:5-44:19
+MERGED from [:react_viro] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/ea785dfb0ba22e8a3e6e8724b3ca9d05/AndroidManifest.xml:11:5-14:19
+MERGED from [:react_viro] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/ea785dfb0ba22e8a3e6e8724b3ca9d05/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c4fbd20c064ae47304c1d5bbb75e524/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c4fbd20c064ae47304c1d5bbb75e524/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/98f83a71fe1d79f76f78333102d81a95/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/98f83a71fe1d79f76f78333102d81a95/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/226d91f26025af2eaab2dc77fdef5e93/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/226d91f26025af2eaab2dc77fdef5e93/AndroidManifest.xml:2:3-17
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/0bce381bc6810ab7411e22f149b0e71a/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/0bce381bc6810ab7411e22f149b0e71a/AndroidManifest.xml:8:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [:react_viro] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/ea785dfb0ba22e8a3e6e8724b3ca9d05/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:11:7-42
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.virosample.MainActivity
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:16:7-26:18
+	android:label
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:19:9-86
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.CARDBOARD
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:21:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:23:23-70
+category#com.google.intent.category.CARDBOARD
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:24:13-77
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:24:23-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:27:17-81
+meta-data#com.google.ar.core
+ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:28:7-79
+	android:value
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:28:52-76
+	android:name
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:28:18-51
+uses-sdk
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/f76280efbccf763cef756cb03aebf775/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/f76280efbccf763cef756cb03aebf775/AndroidManifest.xml:7:5-9:41
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:mapbox-react-native-mapbox-gl] /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/node_modules/@mapbox/react-native-mapbox-gl/android/rctmgl/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/85142f02b7cd4d8c2b111b36696a8e23/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/85142f02b7cd4d8c2b111b36696a8e23/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization:0.1.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-plugin-localization-0.1.0.aar/5f851e1f595a7c23c5efd97fc0c01fa1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization:0.1.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-plugin-localization-0.1.0.aar/5f851e1f595a7c23c5efd97fc0c01fa1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.3.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-plugin-locationlayer-0.3.0.aar/35598179fdf031e96f3720d971fa5e3c/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.3.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-plugin-locationlayer-0.3.0.aar/35598179fdf031e96f3720d971fa5e3c/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:6:5-9:51
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:6:5-9:51
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-telemetry-2.2.9.aar/50f2ce7f5203f5228edb42b1e9c7d8cb/AndroidManifest.xml:8:5-11:51
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:2.2.9] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-telemetry-2.2.9.aar/50f2ce7f5203f5228edb42b1e9c7d8cb/AndroidManifest.xml:8:5-11:51
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1b23d72f7069371acd033ddca8443caf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1b23d72f7069371acd033ddca8443caf/AndroidManifest.xml:20:5-44
+MERGED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:26:5-28:41
+MERGED from [:gvr_common] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/sdk-common-1.180.0.aar/9350014088617cbbe8d522b7763b4dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr_common] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/sdk-common-1.180.0.aar/9350014088617cbbe8d522b7763b4dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:7:5-9:41
+MERGED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:7:5-9:41
+MERGED from [:react_viro] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/ea785dfb0ba22e8a3e6e8724b3ca9d05/AndroidManifest.xml:7:5-9:41
+MERGED from [:react_viro] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/ea785dfb0ba22e8a3e6e8724b3ca9d05/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-2.7.1.aar/4681ce4e6b71587119ecf5ae7b683c5f/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-2.7.1.aar/4681ce4e6b71587119ecf5ae7b683c5f/AndroidManifest.xml:21:5-23:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ad743a9cf18108be0de6dbddacb12743/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ad743a9cf18108be0de6dbddacb12743/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.1.aar/3bda062f4a2f17079a9a1c3bfb311b67/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.1.aar/3bda062f4a2f17079a9a1c3bfb311b67/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.7.1.aar/ed89598c3dda81bf8bef41f2593feee9/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.7.1.aar/ed89598c3dda81bf8bef41f2593feee9/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.7.1.aar/580c66e2834d12d672d5fd55416aa1ac/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.7.1.aar/580c66e2834d12d672d5fd55416aa1ac/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.1.aar/a2062a864acd7687118960948a9b9f63/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.1.aar/a2062a864acd7687118960948a9b9f63/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.1.aar/2f77de4b4927f4bfdfa77b8db196a394/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.1.aar/2f77de4b4927f4bfdfa77b8db196a394/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b059eca33767d8fe3cc33af3bdd628a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b059eca33767d8fe3cc33af3bdd628a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f6e24905a42bee4e1df400a9384010fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f6e24905a42bee4e1df400a9384010fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/adad92ebed5c936e99b06f1978961665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/adad92ebed5c936e99b06f1978961665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/208220c7d81ae1b20013889860fb4d0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/208220c7d81ae1b20013889860fb4d0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d172cb9f0a238ca84240a704ea3b14f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d172cb9f0a238ca84240a704ea3b14f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3679f77efb80a59280491183141b5aca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3679f77efb80a59280491183141b5aca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/82934e4beb62d8c105354e3479e3a80f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/82934e4beb62d8c105354e3479e3a80f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4fd06b1d4afeb47d01853c144d191668/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4fd06b1d4afeb47d01853c144d191668/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1044d7bbeffd009ac198f4304d0e9b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1044d7bbeffd009ac198f4304d0e9b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b3f08200a76ec8468a9524f712b1945f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b3f08200a76ec8468a9524f712b1945f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/10274d55c88721bae68277d2435741bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/10274d55c88721bae68277d2435741bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/129f6b984ea6197090095d137e0af6c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/129f6b984ea6197090095d137e0af6c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01279f6525cfa2d3b904f91cebe327a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01279f6525cfa2d3b904f91cebe327a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df274afc567960ab39afe0337d235a43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c4fbd20c064ae47304c1d5bbb75e524/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c4fbd20c064ae47304c1d5bbb75e524/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ac9aa700b02127fa3de5832160003a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ac9aa700b02127fa3de5832160003a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e754e72e5714a4052ed39a9eaf0a7ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e754e72e5714a4052ed39a9eaf0a7ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b638cb6b71f70bfb42fe1226789b7925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b638cb6b71f70bfb42fe1226789b7925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ef368693e02074d80dc157d94dd2b59d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ef368693e02074d80dc157d94dd2b59d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff6773264f1dd2089610c3246468adda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff6773264f1dd2089610c3246468adda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c4ddb20318097ae284cf50d0d4eb8b2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c4ddb20318097ae284cf50d0d4eb8b2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb4bc919eaef8001fc6188850bb218b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb4bc919eaef8001fc6188850bb218b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cec284898e57c180d4940b5c335020c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cec284898e57c180d4940b5c335020c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2f68d57407ddd38f632a68d059eda5f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2f68d57407ddd38f632a68d059eda5f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21fdb349c86083aec66683a2ada06412/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21fdb349c86083aec66683a2ada06412/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5fff1da678d53c25d986797982b5c391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5fff1da678d53c25d986797982b5c391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c6c68948ea66b813005f03ed51f24f8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c6c68948ea66b813005f03ed51f24f8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe5aaa652db7550830e9796c4bd4fc1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe5aaa652db7550830e9796c4bd4fc1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4eb88d0514e828b37e89897b668568ab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4eb88d0514e828b37e89897b668568ab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/98f83a71fe1d79f76f78333102d81a95/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/98f83a71fe1d79f76f78333102d81a95/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/67ba26790d0134e92bf643c5ed6ea8a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/67ba26790d0134e92bf643c5ed6ea8a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/0bce381bc6810ab7411e22f149b0e71a/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/0bce381bc6810ab7411e22f149b0e71a/AndroidManifest.xml:6:5-43
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:9:9-48
+	android:targetSdkVersion
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:11:5-13:35
+REJECTED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:13:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:14:5-16:36
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:19:5-58
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:19:5-58
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:16:9-33
+		MERGED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:14:5-16:36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:15:9-45
+uses-feature#android.hardware.location.gps
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:17:5-19:36
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:13:5-15:36
+MERGED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:18:9-53
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:23:22-73
+service#com.mapbox.services.android.telemetry.service.TelemetryService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:28:9-98
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.4.1] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.4.1.aar/7963c164a49ee5ee6642710c10129a64/AndroidManifest.xml:28:18-95
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:9:5-11:36
+MERGED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:28:5-30:35
+MERGED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:28:5-30:35
+	android:required
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:10:9-61
+uses-feature#android.hardware.location
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:12:5-62
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:12:19-59
+uses-feature#android.hardware.telephony
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:17:9-50
+service#com.mapzen.android.lost.internal.FusedLocationProviderService
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:22:9-24:39
+	android:process
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:23:13-89
+service#com.mapzen.android.lost.internal.GeofencingIntentService
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:25:9-29:19
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:25:18-89
+intent-filter#action:name:com.mapzen.lost.action.ACTION_GEOFENCING_SERVICE
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:26:13-28:29
+action#com.mapzen.lost.action.ACTION_GEOFENCING_SERVICE
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:27:17-91
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:27:25-88
+service#com.mapzen.android.lost.internal.DwellIntentService
+ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:30:9-31:19
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/e04b4aac891acdb00eea1f5acc5d8290/AndroidManifest.xml:30:18-84
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [:arcore_client] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/e522bd7d8251fb16eb8d11e607f3bfbb/AndroidManifest.xml:42:13-62
+uses-feature#0x00030000
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:13:9-32
+uses-permission#android.permission.VIBRATE
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:16:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:20:22-68
+uses-permission#android.permission.NFC
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:23:5-62
+	android:name
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:23:22-59
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:31:5-33:35
+	android:required
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:33:9-32
+	android:name
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:32:9-57
+uses-feature#android.software.vr.mode
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:37:9-48
+uses-feature#android.hardware.vr.high_performance
+ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [:viro_renderer] /Users/manuelherrerabarraza/.gradle/caches/transforms-1/files-1.1/viro_renderer-release.aar/3826bdfbc393a96d10fbc37b2f76067e/AndroidManifest.xml:41:9-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/manuelherrerabarraza/Desktop/ProyectoFinalUcn/ViroReactAR/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
