@@ -1,6 +1,6 @@
-# mapbox-viroreact-point-of-interes
-<h1>Points of Interes</h1>
-<p>A ReactViro + Mapbox integration for Navigate to one point to another using Augmented Reality</p>
+# mapbox-viroreact-point-of-interest
+<h1>Points of Interest</h1>
+<p>A ReactViro + Mapbox integration for Navigate to one geoposition to another using Augmented Reality</p>
 
 <h1>Instalation</h1>
 <p>
@@ -18,12 +18,17 @@
 
 <h2>Important folders</h2>
 <p>
-api/pois.js -> contains the points of interest with latitude and longitude<br/>
-api/index.js -> contains the method to search points<br/>
+api/ -> contais the pois and search method<br/>
+screens/ -> contains the menu views or "screens" using 'react-navigation'<br/>
 </p>
 <h4>Important files</h4>
 <p>
-  App.js -> Contains all the clases to this app works to simplify the example.<br/>
+  App.js -> Main File.<br/>
+  screens/HomeScreen.js -> Main screen contains search POI function<br/>
+  screens/MapScreen.js -> contains a renderable map using Mapbox API. Renders the POI and the current location.<br/>
+  screens/ArScreen.js -> Render the ViroPolyline that handles the AR pathway experience<br/>
+  api/pois.js -> contains the points of interest with latitude and longitude<br/>
+  api/index.js -> contains the method to search points<br/>
 </p>
 <h1>How it Works?</h1>
 <p>
