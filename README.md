@@ -1,5 +1,9 @@
 # mapbox-viroreact-point-of-interest
 <h1>Points of Interest</h1>
+<div>
+<h2><stong>This project won't be mantained anymore</stong><h2>
+<p> Thanks all for the support and to be interested in this project, but I don't have time to keep mantaining it.<p> 
+</div>
 <p>A ReactViro + Mapbox integration for Navigate to one geoposition to another using Augmented Reality</p>
 
 <h1>Instalation</h1>
