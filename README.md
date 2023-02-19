@@ -16,10 +16,6 @@
   
 </p>
 
-<h1>Inspiration</h1>
-<p>Part of my university final proyect</p>
-
-
 <h2>Important folders</h2>
 <p>
 api/ -> contais the pois and search method<br/>
