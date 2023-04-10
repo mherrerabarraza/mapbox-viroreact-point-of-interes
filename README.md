@@ -16,10 +16,6 @@
   
 </p>
 
-<h1>Inspiration</h1>
-<p>Part of my university final proyect</p>
-
-
 <h2>Important folders</h2>
 <p>
 api/ -> contais the pois and search method<br/>
@@ -36,7 +32,7 @@ screens/ -> contains the menu views or "screens" using 'react-navigation'<br/>
 </p>
 <h1>How it Works?</h1>
 <p>
-Using the search function inside 'api/index.js' you can search an specific POI (Point of Interes); since this proyect is used in my university proyect, the POIS are located inside the campus, but you can modify this file to put your POIS<br/>
+Using the search function inside 'api/index.js' you can search an specific POI (Point of Interes)<br/>
 Once the point is located in the searchbar select the point and the app prompt an alert to "show this point in the map", next the point is showed in the map using a pointer. So, there you have two buttons one to back to the searchbar and one to go to AR navigation.<br/> Because im using geoposition the async function to search for the point, this is gone to take a moment to activate the button to go to AR Navigation.<br/>
 
 This use the Proj4 module to transform GPS points (latitude,longitude) to Cartesian Points (x,y,z) then use this (x,y,z) point to render the <a href="https://docs.viromedia.com/docs/viropolyline">ViroPolyline</a>.
@@ -44,4 +40,4 @@ This use the Proj4 module to transform GPS points (latitude,longitude) to Cartes
 </p>
 
 <h1>Thanks</h1>
-<p>Especial Thanks to <a href="https://github.com/ibesora">Isaac Besora</a> for share his knowledge and be patience</p>
+<p>Especial Thanks to <a href="https://github.com/ibesora">Isaac Besora</a></p>
